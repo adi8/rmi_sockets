@@ -1,0 +1,4 @@
+#!/bin/bash
+
+java -cp build/classes/java/main/ ipc_server.GameServer
+
